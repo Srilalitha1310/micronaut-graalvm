@@ -1,1 +1,1 @@
-web: build/install/hello-micronaut/bin/hello-micronaut
+web: build/install/micronaut-graalvm/bin/micronaut-graalvm

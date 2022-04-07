@@ -1,1 +1,1 @@
-rootProject.name = "hello-micronaut"
+rootProject.name = "micronaut-graalvm"
